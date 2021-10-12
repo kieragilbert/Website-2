@@ -3,7 +3,7 @@
 <param ve-config 
        title="Girl with a Pearl Earring"
        author="JSTOR Labs team"
-       banner="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpeople.com%2Ftv%2Fcuba-gooding-jr-wore-kfc-bucket-his-head%2F&psig=AOvVaw0m09VY9KcphHBbCz3Mg8bk&ust=1634143980028000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMih8O2qxfMCFQAAAAAdAAAAABADurl=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?url="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpeople.com%2Ftv%2Fcuba-gooding-jr-wore-kfc-bucket-his head%2F&psig=AOvVaw0m09VY9KcphHBbCz3Mg8bk&ust=1634143980028000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMih8O2qxfMCFQAAAAAdAAAAABAD"> 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
@@ -31,7 +31,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpeople.com%2Ftv%2Fcuba-gooding-jr-wore-kfc-bucket-his-head%2F&psig=AOvVaw0m09VY9KcphHBbCz3Mg8bk&ust=1634143980028000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMih8O2qxfMCFQAAAAAdAAAAABAD">
+       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
 
 ## Map
 
